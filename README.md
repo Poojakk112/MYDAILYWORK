@@ -1,14 +1,12 @@
-# MY DAILY WORK 🚀
+# Daily Coding Practice 🚀
 
-This repository contains my daily coding practice and learning progress.
+This repository contains my daily coding practice to improve problem-solving skills and programming knowledge.
 
-## 📌 What I Practice
-- Data Structures & Algorithms
-- Java & Python programming
-- Problem-solving skills
+## 📌 Topics Covered
+- Data Structures
+- Algorithms
+- Java Programming
+- Problem Solving
 
-## 📅 Structure
-Each folder represents daily tasks with solutions and explanations.
-
-## 🎯 Goal
-To improve consistency, logical thinking, and coding skills for real-world applications.
+## 📅 Goal
+To build strong logical thinking and prepare for technical interviews.
