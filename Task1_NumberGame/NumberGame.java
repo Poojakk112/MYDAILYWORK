@@ -1,3 +1,19 @@
+// Project: Number Guessing Game
+
+// Problem:
+// Create a game where the computer generates a random number,
+// and the user has to guess the correct number.
+
+// Approach:
+// 1. Generate a random number
+// 2. Take user input
+// 3. Compare guessed number with actual number
+// 4. Give hints (too high / too low)
+// 5. Repeat until correct guess
+
+// Example:
+// Input: 50
+// Output: Too high / Too low / Correct guess
 import java.util.Random;
 import java.util.Scanner;
 
