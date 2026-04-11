@@ -1,3 +1,21 @@
+// Project: Student Grade Calculator
+
+// Description:
+// This program takes marks of subjects as input,
+// calculates the average, and assigns a grade.
+
+// Logic:
+// 1. Take marks input from user
+// 2. Calculate total and average
+// 3. Use if-else conditions to assign grade
+// 4. Display average and grade
+
+// Example:
+// Input: 80, 85, 90
+// Output: Average = 85, Grade = A
+
+// Technologies Used:
+// Java, Scanner, Conditional Statements
 import java.util.Scanner;
 
 public class GradeCalculator {
